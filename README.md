@@ -1,6 +1,6 @@
 # BDD-Cucumber-Typescript
 
-This project uses Behavior Driven Development (BDD) principles to write tests in JavaScript.
+This project uses Behavior Driven Development (BDD) principles to write tests in TypeScript.
 
 ## Getting Started
 
